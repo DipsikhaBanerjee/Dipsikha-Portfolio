@@ -1,0 +1,11 @@
+.h {
+   
+    font-size: 4rem;
+    font-family: cursive;
+}
+.quote-card-view {
+  border: 1px 0 solid black !important;
+  background-color: transparent !important;
+  box-shadow: 0 0 25px #e1f182 !important;
+  margin-top: 12rem;
+}

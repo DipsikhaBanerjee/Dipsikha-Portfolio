@@ -1,0 +1,95 @@
+.c {
+    width: 20rem;
+    height: 20rem;
+    box-sizing: border-box;
+    background: black;
+    border-radius: 2rem;
+}
+.h1 {
+    display: flex;
+    justify-content: center;
+}
+.about-section {
+  position: relative !important;
+  padding-bottom: 30px !important;
+  background-image: var(--section-background-color) !important;
+  color: white !important;
+}
+.tech-icons {
+  font-size: 8rem !important;
+  margin: 15px !important;
+  /* width: auto !important;
+  height: auto; */
+  padding: 10px !important;
+  opacity: 0.93 !important;
+  border: 1.7px solid rgba(200, 137, 230, 0.637) !important;
+  vertical-align: middle !important;
+  text-align: center !important;
+  border-radius: 5px !important;
+  display: flex !important;
+  box-shadow: 4px 5px 4px 3px rgba(89, 4, 168, 0.137) !important;
+  overflow: hidden !important;
+  transition: all 0.4s ease 0s !important;
+}
+
+@media (max-width: 767px) {
+  .tech-icons {
+    margin: 10px !important;
+  }
+}
+
+.tech-icons:hover {
+  transform: scale(1.05) !important;
+  overflow: hidden !important;
+  border: 2.2px solid rgba(197, 115, 230, 0.883) !important;
+}
+.tech-icon-images {
+  padding: 20px !important;
+  line-height: 1.6 !important;
+}
+.project-heading {
+  color: white !important;
+  font-size: 4.5rem !important;
+  font-weight: 400 !important;
+  display: flex;
+  justify-content: center !important;
+  padding-top: 1px !important;
+}
+.s {
+    margin-top: -10rem;
+}
+.a {
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.b {
+  font-size: 8rem !important;
+  margin: 15px !important;
+  /* width: auto !important;
+  height: auto; */
+  padding: 10px !important;
+  opacity: 0.93 !important;
+  border: 1.7px solid rgba(200, 137, 230, 0.637) !important;
+  vertical-align: middle !important;
+  text-align: center !important;
+  border-radius: 5px !important;
+  display: flex !important;
+  box-shadow: 4px 5px 4px 3px rgba(89, 4, 168, 0.137) !important;
+  overflow: hidden !important;
+  transition: all 0.4s ease 0s !important;
+}
+
+@media (max-width: 767px) {
+  .b {
+    margin: 10px !important;
+  }
+}
+
+.b:hover {
+  transform: scale(1.05) !important;
+  overflow: hidden !important;
+  border: 2.2px solid rgba(197, 115, 230, 0.883) !important;
+}
