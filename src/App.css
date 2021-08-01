@@ -2,11 +2,11 @@
 .h1 {
   color: antiquewhite;
 }
-/* .back {
-  background: linear-gradient(to right, #e99ab3, #1d2671); 
+.back {
+  /* background: linear-gradient(to right, #e99ab3, #1d2671);  */
   width: auto;
   height: auto;
-} */
+}
 @import url('https://fonts.googleapis.com/css?family=Exo:400,700');
 
 *{
