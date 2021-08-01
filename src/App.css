@@ -3,7 +3,7 @@
   color: antiquewhite;
 }
 .back {
-  background: linear-gradient(to right, #c33764, #1d2671); 
+  background: linear-gradient(to right, #e99ab3, #1d2671); 
   width: auto;
   height: auto;
 }
@@ -34,8 +34,8 @@ body{
 
 
 .area{
-  background: linear-gradient(to right, #c33764, #1d2671); 
-    background: -webkit-linear-gradient(to left, #8f94fb, #4e54c8);  
+  background: linear-gradient(to right, #db6289, #1d2671); 
+    background: -webkit-linear-gradient(to left, #878ceb, #4e54c8);  
     width: auto;
     height:auto;
     
