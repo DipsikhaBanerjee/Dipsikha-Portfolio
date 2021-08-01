@@ -2,11 +2,11 @@
 .h1 {
   color: antiquewhite;
 }
-.back {
+/* .back {
   background: linear-gradient(to right, #e99ab3, #1d2671); 
   width: auto;
   height: auto;
-}
+} */
 @import url('https://fonts.googleapis.com/css?family=Exo:400,700');
 
 *{
@@ -34,7 +34,7 @@ body{
 
 
 .area{
-  background: linear-gradient(to right, #db6289, #1d2671); 
+  background: linear-gradient(to right, #db6289, #1d2671) !important; 
     background: -webkit-linear-gradient(to left, #878ceb, #4e54c8);  
     width: auto;
     height:auto;
