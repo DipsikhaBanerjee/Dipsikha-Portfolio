@@ -84,6 +84,18 @@ html {
     height: 52rem;
     margin-left: auto;
 }
+@media (max-width: 767px) {
+  .img-fluid {
+    width: 32rem;
+    height: 32rem;
+    display: block;
+    
+   
+  }
+}
+
+
+
 
 .heading {
   font-size: 4rem !important;
